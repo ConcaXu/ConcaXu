@@ -11,6 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ConcaXu&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ConcaXu&show_icons=true" />
 -->
 
 <picture>
@@ -18,13 +23,10 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api?username=ConcaXu&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ConcaXu&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ConcaXu&show_icons=true" />
+
+  <a href="https://github.com/ConcaXu/dy-live-bullet-collect">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ConcaXu&layout=compact&langs_count=8&card_width=320" />
+  </a>
 </picture>
 
-<a href="https://github.com/ConcaXu/dy-live-bullet-collect">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ConcaXu&layout=compact&langs_count=8&card_width=320" />
-</a>
+
