@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConcaXu&show_icons=true&theme=transparent)
 -->
 
 <picture>
@@ -24,4 +23,5 @@ Here are some ideas to get you started:
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ConcaXu&show_icons=true" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConcaXu&show_icons=true&theme=transparent)
 </picture>
