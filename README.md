@@ -1,21 +1,42 @@
-<!--
-**ConcaXu/ConcaXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 动态波浪分隔线 -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=ConcaXu%20%E7%9A%84%E4%BB%93%E5%BA%93&fontSize=40&fontColor=ffffff&animation=twinkling" />
 
-Here are some ideas to get you started:
+<!-- 动态社交徽章 -->
+<div align="center">
+  <a href="https://shinezx1027@163.com">
+    <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=mail.ru&logoColor=white" />
+  </a>
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=2424858916&site=qq&menu=yes">
+    <img src="https://img.shields.io/badge/QQ-%E8%81%94%E7%B3%BB-blue?style=for-the-badge&logo=tencent-qq" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ConcaXu&color=dc143c&style=for-the-badge" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-You can contact me by these way below:
-*  QQ: 2424858916
-*  E-Mail: shinezx1027@163.com
-*  WeChat: Zx15137215255
-  
-<img align="" width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=ConcaXu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" /><img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=ConcaXu&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
-<img align="" width="99.9%" src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=ConcaXu&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
+<!-- 打字机效果标题 -->
+<h2 align="center">⚡ 技术栈</h2>
+
+<!-- 动态技能标签 -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,spring,redis,mysql,git,idea,linux,docker,aws&theme=dark&perline=5" />
+</div>
+
+<!-- 3D贡献图 -->
+<div align="center">
+  <img src="https://github-readme-3d-contrib.vercel.app/?username=ConcaXu&limit=10&color=0,00ff00,008000&bg=0,000000,000000" width="800"/>
+</div>
+
+<!-- 统计卡片布局 -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=ConcaXu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=ConcaXu&layout=compact&theme=merko&hide_border=true&langs_count=6" />
+</div>
+
+<!-- 动态活动图 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=ConcaXu&theme=react-dark&bg_color=000000&hide_border=true&area=true&point=00ff00" width="95%"/>
+</div>
+
+<!-- 贪吃蛇动画 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ConcaXu/ConcaXu/output/github-contribution-grid-snake.svg" />
+</div>
