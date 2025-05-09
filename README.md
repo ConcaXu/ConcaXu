@@ -38,5 +38,5 @@
 
 <!-- 贪吃蛇动画 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ConcaXu/ConcaXu/output/github-contribution-grid-snake.svg" />
+  <img src="https://api.snake.dermahacker.com/ConcaXu?color=41b883&bg=ffffff00&type=circle&animation=wave" width="800"/>
 </div>
