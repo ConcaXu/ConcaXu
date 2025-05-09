@@ -35,8 +35,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=ConcaXu&theme=react-dark&bg_color=000000&hide_border=true&area=true&point=00ff00" width="95%"/>
 </div>
-
-<!-- 贪吃蛇动画 -->
-<div align="center">
-  <img src="https://api.snake.dermahacker.com/ConcaXu?color=41b883&bg=ffffff00&type=circle&animation=wave" width="800"/>
-</div>
