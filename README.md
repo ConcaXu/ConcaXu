@@ -1,11 +1,11 @@
 <!-- 动态波浪分隔线 -->
 <!-- 打字机效果标题 -->
-<h2 align="center">⚡ 技术栈</h2>
+<!-- <h2 align="center">⚡ 技术栈</h2> -->
 
 <!-- 动态技能标签 -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,spring,redis,mysql,git,idea,linux,docker,aws&theme=dark&perline=5" />
-</div>
+<!-- <div align="center"> -->
+<!-- <img src="https://skillicons.dev/icons?i=java,python,spring,redis,mysql,git,idea,linux,docker,aws&theme=dark&perline=5" /> -->
+<!-- </div> -->
 
 <!-- 动态活动图 -->
 <div align="center">
