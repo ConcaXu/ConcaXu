@@ -20,28 +20,13 @@
   <img src="https://skillicons.dev/icons?i=java,python,spring,redis,mysql,git,idea,linux,docker,aws&theme=dark&perline=5" />
 </div>
 
-<!-- 3D贡献图 -->
-<div align="center">
-  <img src="https://github-readme-3d-contrib.vercel.app/?username=ConcaXu&limit=10&color=0,00ff00,008000&bg=0,000000,000000" width="800"/>
-</div>
-
-<!-- 统计卡片布局 -->
-<div align="center">
-  <img height="165" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=ConcaXu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=ConcaXu&layout=compact&theme=merko&hide_border=true&langs_count=6" />
-</div>
-
 <!-- 动态活动图 -->
 <div align="center">
   <img src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=ConcaXu&theme=react-dark&bg_color=000000&hide_border=true&area=true&point=00ff00" width="95%"/>
 </div>
 # 张旭 · 上位机开发工程师
-
-> 离职 · 广东深圳 · 出生日期 2001/10/27
 >
 > 邮箱|   shinezx1027@163.com
->
-> 电话|  15137215255
 >
 > GitHub| https://github.com/ConcaXu
 
